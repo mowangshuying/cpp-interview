@@ -1,2 +1,3 @@
 main*
 .vscode/*
+cpp-mem-model/cpp-mem-model/*
